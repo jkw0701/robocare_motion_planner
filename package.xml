@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>mobile_manipulator_motion_planner_robocare</name>
+  <name>robocare_motion_planner</name>
   <version>0.0.1</version>
   <description>The motion planner package</description>
   <maintainer email="jkw0701@snu.ac.kr">Keunwoo Jang</maintainer>
