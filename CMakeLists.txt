@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(mobile_manipulator_motion_planner_robocare CXX)
+project(robocare_motion_planner CXX)
 
 add_compile_options(-std=c++11)
 
