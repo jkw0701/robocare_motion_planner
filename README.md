@@ -51,5 +51,5 @@ sudo make install
 * Open .ttt
 * roslaunch
 ```
-roslaunch mobile_manipulator_motion_planner demo.launch
+roslaunch robocare_motion_planner demo.launch
 ```
